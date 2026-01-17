@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/pub-scratch-card/',
 })
